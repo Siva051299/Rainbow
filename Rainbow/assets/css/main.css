@@ -834,10 +834,10 @@ section,
   width: 100%;
   min-height: 100vh;
   position: relative;
-  margin: 100px 0 60px 0;
+  padding: 80px 0 60px 0;
   display: flex;
   align-items: center;
-  background: url(../img/hero_img.png) top center no-repeat;
+  background: url(../img/hero-bg.png) top center no-repeat;
   background-size: cover;
 }
 
